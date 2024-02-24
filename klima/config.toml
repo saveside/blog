@@ -18,7 +18,7 @@ theme="gokarna"
     post = ""
 
     # Display name
-    name = "Posts"
+    name = "Projects"
 
     # Weights are used to determine the ordering
     weight = 1
@@ -38,7 +38,7 @@ theme="gokarna"
     
   [[menu.main]]
     identifier = "github"
-    url = "https://github.com"
+    url = "https://github.com/saveside"
     weight = 3
     
     # We use feather-icons: https://feathericons.com/
@@ -73,3 +73,10 @@ theme="gokarna"
 
   # Footer text
   footer = "KlimasAwakening"
+
+  socialIcons = [
+      {name = "youtube", url = "https://www.youtube.com/@efranuzun/videos"},
+    ]
+
+
+
